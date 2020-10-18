@@ -6,6 +6,7 @@ All code and data for this project can be found in the respective folders of thi
 
 The project directory requires 487MB on disk, and includes all data and code required to build out all datasets used in this project. Full build out of all datasets will require 13.8GB on disk. Please see the Jupyter notebook section below for details on building out project datasets. All data and notebooks have been arranged within the project directory to ensure local paths in code function correctly. Ensure that the desired notebook is placed in the working directory with the associated data directory for pathways to function.
 
+![Sample Visual](Figure 1 _ Sample Composition Plot.jpg)
 
 ### Required Python Libraries/Packages:
 
