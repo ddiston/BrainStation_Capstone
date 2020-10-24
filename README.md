@@ -6,7 +6,7 @@ All code and data for this project can be found in the respective folders of thi
 
 The project directory requires 487MB on disk, and includes all data and code required to build out all datasets used in this project. Full build out of all datasets will require 13.8GB on disk. Please see the Jupyter notebook section below for details on building out project datasets. All data and notebooks have been arranged within the project directory to ensure local paths in code function correctly. Ensure that the desired notebook is placed in the working directory with the associated data directory for pathways to function.
 
-![Sample Visual](Images/Figure%201%20_%20Sample%20Composition%20Plot.jpg)
+<img src="Images/Figure%201%20_%20Sample%20Composition%20Plot.jpg" alt="sample" width="1000"/>
 
 ### Required Python Libraries/Packages:
 
@@ -49,7 +49,7 @@ This project includes 4 different model types. Each are listed below with their 
     10-Composer_Model_Data_Preparation.ipynb
     11-RNN_Model_Composers.ipynb
     
-<img src="Images/10%20Class%20Confusion%20Matrix.jpg" alt="drawing" width="600"/>
+<img src="Images/10%20Class%20Confusion%20Matrix.jpg" alt="results" width="600"/>
 
 ##### Century Classification Model:
 
