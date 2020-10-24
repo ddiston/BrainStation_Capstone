@@ -48,6 +48,8 @@ This project includes 4 different model types. Each are listed below with their 
 
     10-Composer_Model_Data_Preparation.ipynb
     11-RNN_Model_Composers.ipynb
+    
+<img src="Images/10%20Class%20Confusion%20Matrix.jpg" alt="drawing" width="600"/>
 
 ##### Century Classification Model:
 
