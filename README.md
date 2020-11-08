@@ -1,5 +1,14 @@
 # The AI Pianist
 
+Developed by David Diston
+
+### Introduction
+
+The purpose of this project was to classify classical piano music by composer. I also sought both to classify music based on the century during which it was composed, and to compare the classification accuracy of binary models each predicting between two different composers.
+
+Midi data was collected from the e-Piano Competition of the University of Minnesota School of Music and preprocessed to bin note values and convert the midi data to arrays. LSTM RNN architecture was used to produce each of four models. Test accuracy for my ten-class composer classification model was 61%, for my century classification model 80%, and my two binary composer classification models were 67% and 91%. Future research based on these results includes further testing with binary composer classification models to better understand the variation in classification success, and how the models are making predictions. There are also several applications for models that can classify and play midi data in the style of a particular composer.
+
+---------------------
 All code and data for this project can be found in the respective folders of this repository. 
 
 ### Full Project Directory:
